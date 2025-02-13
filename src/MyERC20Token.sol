@@ -10,7 +10,6 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
  * You can edit the default values as needed.
  */
 contract MyERC20Token is ERC20Burnable {
-
     /**
      * @dev Constructor to initialize the token with default values.
      * You can edit these values as needed.
