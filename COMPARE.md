@@ -87,60 +87,83 @@ Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
 ```bash
 Chain 300
 
-Estimated gas price: 0.0025000001 gwei
+Estimated gas price: 0.025000001 gwei
 
-Estimated total gas used for script: 1783202
+Estimated total gas used for script: 11060014
 
-Estimated amount required: 0.0000445800500005 ETH
+Estimated amount required: 0.00027650035 ETH
 
 ==========================
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
-
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x5f99c44c1c9648845b445dc5b2ed2627d924a1ced51800016dd77ed6b4ceeef4
+Contract Address: 0x226D430433725269F78FAcF719610ee04C76447D
+Block: 4756434
+Paid: 0.00016008915 ETH (6403566 gas * 0.025 gwei)
 
 
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x7875c57ce0f3f98c28d49d7a741bf1bed8bc0fcac7708bc91881206524755de9
+Block: 4756435
+Paid: 0.0000030419 ETH (121676 gas * 0.025 gwei)
 
 
-##### 300
-✅  [Success] Paid: 0.0000786611 ETH (786611 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0xe78869c9424650fde0fa797aba97c2791e8b1ab0ddf69027c0707d24062c7913
+Block: 4756436
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
 
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x7f7ba40f52b84752a540199395a5e5ddf426110e79a2217fc609f10b9be8f108
+Block: 4756437
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
 
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
-
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x5e92c27b7818d7c432dbba89d81bb7262dd6c7a722519008a1e811b29540bd19
+Block: 4756438
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
 
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
-
-
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x8ce2002c7cbeff01caee84f8c1c2dd048479590eabc1dcacf6952ede541deef5
+Block: 4756439
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
 
-##### 300
-✅  [Success] Paid: 0.0000066491 ETH (66491 gas * 0.1 gwei)
+##### zksync-testnet
+✅  [Success] Hash: 0x7a44ee254e09bc4c646abfe9ea1434904dfed6249bfa3781b4a02c42afcbbc57
+Block: 4756440
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
-✅ Sequence #1 on 300 | Total Paid: 0.000144272 ETH (1442720 gas * avg 0.1 gwei)
+
+##### zksync-testnet
+✅  [Success] Hash: 0xb89e0c84867855371ab267a5bbb7f8affed3bb43fe77c48ac6b8ce3ac5afaa04
+Block: 4756441
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
+
+
+##### zksync-testnet
+✅  [Success] Hash: 0xe19da3805acb96fa4b8c468db9f5fd892d2fe837d5c336fa9ee4516dd6a7427d
+Block: 4756442
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
+
+
+##### zksync-testnet
+✅  [Success] Hash: 0xf9e985a4452324a4d1a6b85a490a70616402c993c7ba1fc1f7d6bc3c8072c705
+Block: 4756443
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
+
+
+##### zksync-testnet
+✅  [Success] Hash: 0xcc93122e952471922cc37ee81c59b88ebaf70af08869a941af5e82d52c29bf71
+Block: 4756444
+Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
+
+✅ Sequence #1 on zksync-testnet | Total Paid: 0.000180341525 ETH (7213661 gas * avg 0.025 gwei)
 ```
 
 ## Conclusion
 
-ZkSync Sepolia is 13% cheaper to deploy and 10% cheaper to transfer on compared to the emulator devnet.
+- Contract Deployment: zkSync Sepolia uses approximately 26.58% less gas but costs approximately 83.57% more in ETH.
+- Transfers: zkSync Sepolia uses approximately 0.086% more gas but costs approximately 74.98% less in ETH.
