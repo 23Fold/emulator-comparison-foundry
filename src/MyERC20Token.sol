@@ -16,7 +16,7 @@ contract MyERC20Token is ERC20Burnable {
      */
     constructor() ERC20("DefaultTokenName", "DTN") {
         // Default initial supply of 1 million tokens (with 18 decimals)
-        uint256 initialSupply = 1_000_000 * (10 ** 18);
+        uint256 initialSupply = 1_000_000 ether;
 
         // The initial supply is minted to the deployer's address
         _mint(msg.sender, initialSupply);

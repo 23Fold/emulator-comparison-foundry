@@ -14,72 +14,72 @@ Estimated amount required: 0.002212002811060014 ETH
 ==========================
 
 ##### 270
-✅  [Success] Hash: 0x6e067495f830e6c4361b10d515d053f51e4e4a0b29dd226f73d0bded6bf048a6
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0x2b708be663960d699cd6c15df66fc94f76aefce13252f3539a29820c1fd57895
+Contract Address: 0x80d9f1992Ab80F3f1d8a8674cD58f2b7cD052a3d
+Block: 177
+Paid: 0.0000419747 ETH (419747 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x4bb22a2d01f94261e4df1784070f825336c9ae2ddf27947a984ba72fc60a7e01
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0x3208ba2d21d9b6aed0dcf4fdd09c2b3e2b30db312f531ac9b803584bbc13d7d2
+Block: 178
+Paid: 0.0000214972 ETH (214972 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0xc4b3f169e2364c5565b1e8e246fd57d79b9a0b6866e55c10a453a6247366f09f
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0xc29e4ea2f359964fe869365167ec1caab2b14282e9264d233658c4bf9cece92a
+Block: 180
+Paid: 0.0000270142 ETH (270142 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x608dffb526cde1d9a4ab5cebe50adc8522973f287da499d1481e33fa90544dc3
-Contract Address: 0xF22095F7daFB327e000DeE14588EC0C5cc4C32e3
-Block: 115
-Paid: 0.0000871957 ETH (871957 gas * 0.1 gwei)
+✅  [Success] Hash: 0x1ca397b3e7a2faaaa9b3c14f14f6e6e91ea260f10a0d7978705361f421efd510
+Block: 182
+Paid: 0.0000242844 ETH (242844 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x5552b78a897e4708c9d0a77ecd81d90305846a21b45eeaa7bb1ef7e436822665
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0x16528955c41dd28409d89101fbf5c3a6614d8abbec8ea8f25f60ff7c256834a2
+Block: 184
+Paid: 0.0000242838 ETH (242838 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x279352b2569aa0a0abe74a5f606af4cdc44e14c7bc341aa8bfac145544fa09f2
-Block: 115
-Paid: 0.0000082359 ETH (82359 gas * 0.1 gwei)
+✅  [Success] Hash: 0x689faaf6f0817273163bdc5f3bf3afb2be78b3f876a8567cdb1ae9811ab4be12
+Block: 186
+Paid: 0.0000242844 ETH (242844 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0xee246de03eb14354be98d7a3dbb59588fb1146b4dd1cb38ba1cb933f7af47b55
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0xb9564451368698f078e31740f3e88549603eb64af79f704c49ecbf5c736dab21
+Block: 188
+Paid: 0.0000235341 ETH (235341 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x5b0f77345a686ed1d54b602e3fb6d56e7c7958d74921134999307f660a7bb762
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0x565f6c0c55744a01cb2d2ff52958184ca18f4fc14654e0d3e985198bb84cecf9
+Block: 190
+Paid: 0.0000242844 ETH (242844 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0xa4ca09e8ea1aa681404129e67d0209061c1e8f52a95e6125729c7db627711481
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0x4d5c9a7384597edf72f83932b66a5d7641e566b1d1b5b59b5b20e7663270e9b2
+Block: 191
+Paid: 0.0000208418 ETH (208418 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0x3bcc76e2250d21ebb91d4e12c641ff736ab97b7726a1962209778916d4bb894c
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0xbdb3d0fbe16ec616df3aeb4e5e38d8d3489f370f4685492799eea19213accecb
+Block: 193
+Paid: 0.0000242838 ETH (242838 gas * 0.1 gwei)
 
 
 ##### 270
-✅  [Success] Hash: 0xa1c8eba3cc71bbdeef8aa9e2031e2d50c5bdeba38759d4717a6959f6c54993e0
-Block: 115
-Paid: 0.0000076425 ETH (76425 gas * 0.1 gwei)
+✅  [Success] Hash: 0xd1a044a230f346651fb07b691e897f96ba273381bc3060db8f378ea797fee001
+Block: 195
+Paid: 0.0000242844 ETH (242844 gas * 0.1 gwei)
 
-✅ Sequence #1 on 270 | Total Paid: 0.0001642141 ETH (1642141 gas * avg 0.1 gwei)
+✅ Sequence #1 on 270 | Total Paid: 0.0002805672 ETH (2805672 gas * avg 0.1 gwei)
 ```
 
 ## zkSync Sepolia
@@ -165,5 +165,6 @@ Paid: 0.000001912275 ETH (76491 gas * 0.025 gwei)
 
 ## Conclusion
 
-- Contract Deployment: zkSync Sepolia uses approximately 26.58% less gas but costs approximately 83.57% more in ETH.
-- Transfers: zkSync Sepolia uses approximately 0.086% more gas but costs approximately 74.98% less in ETH.
+- **Contract Deployment**: zkSync Sepolia uses approximately 26.58% less gas compared to the emulator. However, it costs approximately 83.57% more in ETH due to the higher gas price.
+
+- **Transfers**: zkSync Sepolia uses approximately 0.086% more gas than the emulator. Despite this, it costs approximately 74.98% less in ETH, making it more cost-effective for transfers.
